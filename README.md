@@ -1,13 +1,13 @@
-Portfolio
+# Portfolio
 
 Welcome to my portfolio repository! This project showcases my work and skills in [your field, e.g., web development, data science, graphic design, etc.]. Here you will find a collection of projects that highlight my abilities and accomplishments.
 
-Introduction
+**Introduction**
 
 This portfolio demonstrates my [skills/projects/achievements] and provides an overview of my abilities in [specific areas]. It includes various projects with descriptions, technologies used, and links to live demos or repositories.
 
 
-How to Use This Portfolio as a Template
+**How to Use This Portfolio as a Template**
 
 
 If you would like to use this portfolio as a template for your own:
@@ -30,10 +30,12 @@ If you would like to use this portfolio as a template for your own:
 Feel free to reach out if you have any questions or need help with customization.
 
 
-Contact
+# Contact
 
 For any inquiries or feedback, feel free to contact me at:
 
-Email: anthoorveettilakshaybabu@gmail.com
 
-LinkedIn: www.linkedin.com/in/anthoorveettilakshaybabu
+**Email**: anthoorveettilakshaybabu@gmail.com
+
+**LinkedIn**: www.linkedin.com/in/anthoorveettilakshaybabu
+
