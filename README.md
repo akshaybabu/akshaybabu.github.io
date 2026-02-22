@@ -34,6 +34,7 @@ Feel free to reach out if you have any questions or need help with customization
 
 For any inquiries or feedback, feel free to contact me at:
 
+**Mobile No**: +919652466004
 
 **Email**: anthoorveettilakshaybabu@gmail.com
 
